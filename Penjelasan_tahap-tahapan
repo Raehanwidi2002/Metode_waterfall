@@ -6,3 +6,20 @@
   observasi, survei, wawancara, dan sebagainya. Informasi yang diperoleh kemudian diolah dan
   dianalisa sehingga didapatkan data atau informasi yang lengkap mengenai spesifikasi kebutuhan
   pengguna akan perangkat lunak yang akan dikembangkan.
+  
+  
+2. System and Software Design
+
+ Informasi mengenai spesifikasi kebutuhan dari tahap Requirement Analysis selanjutnya di 
+ analisa pada tahap ini untuk kemudian diimplementasikan pada desain pengembangan. 
+ Perancangan desain dilakukan dengan tujuan membantu memberikan gambaran lengkap mengenai apa yang harus dikerjakan. 
+ Tahap ini juga akan membantu pengembang untuk menyiapkan kebutuhan hardware dalam 
+ pembuatan arsitektur sistem perangkat lunak yang akan dibuat secara keseluruhan.
+ 
+ 
+3. Implementation and Unit Testing
+
+ Tahap implementation and unit testing merupakan tahap pemrograman. Pembuatan perangkat 
+ lunak dibagi menjadi modul-modul kecil yang nantinya akan digabungkan dalam tahap berikutnya. 
+ Disamping itu, pada fase ini juga dilakukan pengujian dan pemeriksaan terhadap fungsionalitas 
+ modul yang sudah dibuat, apakah sudah memenuhi kriteria yang diinginkan atau belum.
