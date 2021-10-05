@@ -23,3 +23,16 @@
  lunak dibagi menjadi modul-modul kecil yang nantinya akan digabungkan dalam tahap berikutnya. 
  Disamping itu, pada fase ini juga dilakukan pengujian dan pemeriksaan terhadap fungsionalitas 
  modul yang sudah dibuat, apakah sudah memenuhi kriteria yang diinginkan atau belum.
+
+4. Integration and System Testing
+
+ Setelah seluruh unit atau modul yang dikembangkan dan diuji di tahap implementasi selanjutnya 
+ diintegrasikan dalam sistem secara keseluruhan. Setelah proses integrasi selesai, selanjutnya 
+ dilakukan pemeriksaan dan pengujian sistem secara keseluruhan untuk mengidentifikasi kemungkinan adanya kegagalan dan kesalahan sistem.
+
+5. Operation and Maintenance
+
+ Pada tahap terakhir dalam Metode Waterfall, perangkat lunak yang sudah jadi dioperasikan
+ pengguna dan dilakukan pemeliharaan. Pemeliharaan memungkinkan pengembang untuk melakukan 
+ perbaikan atas kesalahan yang tidak terdeteksi pada tahap-tahap sebelumnya. Pemeliharaan meliputi perbaikan 
+ kesalaha, perabikan implementasi unit sistem, dan peningkatan dan penyesuaian sistem sesuai dengan kebutuhan.
